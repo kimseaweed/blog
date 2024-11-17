@@ -1,3 +1,9 @@
+.black-nav{
+  display: flex;
+  background-color: black;
+  color: #fff;
+}
+
 .App {
   text-align: center;
 }
